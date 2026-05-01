@@ -1,5 +1,6 @@
 # AI-ML_Internship_tasks_01
 **Task_1:** News topic classifier using BERT
+Here is the project link:**https://drive.google.com/file/d/1Ate0dThxX7-iKKOSbbIZ_3h9tcN1wj49/view?usp=drivesdk**
 📌 Project Overview
 This project builds a news classification system using BERT (Bidirectional Encoder Representations from Transformers) to automatically categorize news articles into predefined topics such as politics, sports, technology, business, etc.
 The model leverages deep learning and natural language processing techniques to understand the context of news text and provide accurate predictions.
@@ -70,7 +71,7 @@ Identified key features affecting churn
 
 **Task_3:** Context aware chatbot using langchain or RAG
 # 🤖 RAG Chatbot — Complete Setup Guide
-Here is the the project link:**https://drive.google.com/file/d/1Ate0dThxX7-iKKOSbbIZ_3h9tcN1wj49/view?usp=drivesdk**
+Here is the the project link:**https://drive.google.com/file/d/1OihtGgCqt18COaUGxULfkJ7y0J2KLSEP/view?usp=drivesdk**
 ## What This Project Does
 
 A conversational chatbot that:
